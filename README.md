@@ -1,4 +1,3 @@
-![MasterHead](https://as1.ftcdn.net/v2/jpg/02/42/83/38/1000_F_242833857_rsLAXVpWoSsKMOt9n5BCb4IRdNRupQ8X.jpg)
 <h1 align="center">Hi 👋, I'm Nguyen Quang Sang</h1>
 <h3 align="center">A passionate Junior Data Scientist/Data Analyst from VN-HCM city</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/ule4vhcY1xEKQ/200w.webp?cid=ecf05e4732wrwzy231u3s6bpw7saqtevs2xnldgzsuqo8ayy&ep=v1_gifs_search&rid=200w.webp&ct=g">
