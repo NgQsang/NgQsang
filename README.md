@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Nguyen Quang Sang</h1>
-<h3 align="center">A passionate Junior Data Scientist/Data Analyst from VN-HCM city</h3>
+<h1 align="center">Hi Guys👋, I'm Nguyen Quang Sang</h1>
+<h3 align="center">A passionate Junior Data Scientist, Data Analyst from VN-HCM city</h3>
 
+<h3 align="left">About me:</h3>
 - 🌱 I’m currently learning **Data Science, Data analysis, ML/DL**
 
 - 📫 How to reach me **nguyensang.contactwork@gmail.com**
