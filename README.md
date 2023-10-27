@@ -1,9 +1,11 @@
-![alt text](./images/Header(2).svg)
-
+<br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=HEY+GUYS+,+I'M+QUANG+SANG&center=true&width=380&height=45">
+</p>
+<br>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Student;A+Passionate+Data+Analyst;;Always%20learning%20new%20things&center=true&width=380&height=45">
 </p>
-
 <br>
 
 <img align="right" width=200px height=200px alt="side_sticker" src="./images/profile_dev.svg" />
@@ -25,19 +27,71 @@
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sang nguyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sang nguyen" height="30" width="40" /></a>
-<a href="https://kaggle.com/nguyen sam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nguyen sam" height="30" width="40" /></a>
-<a href="https://fb.com/nguyễn sang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nguyễn sang" height="30" width="40" /></a>
-<a href="https://instagram.com/quangsang____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="quangsang____" height="30" width="40" /></a>
+## 🛠️ My Favorite Tools
+
+### 👨‍💻 Languages Experiences
+<p>
+    <a href="https://github.com/search?q=user%3ANgQsang/+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ANgQsang/+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23007396.svg?logo=javascript&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ANgQsang/+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ANgQsang/+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a> 
+    <a href="https://github.com/search?q=user%3ANgQsang/+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ANgQsang/+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=mysql&logoColor=white"></a>
+
+### 📚 Libraries
+
+<p>
+    <a href="#"><img alt="D3.js" src="https://img.shields.io/badge/D3.js-%2020532a.svg?logo=d3.js&logoColor=white"></a>
+    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23430098.svg?logo=numpy&logoColor=white"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+### 🗄️ Databases
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngqsang&show_icons=true&locale=en&layout=compact" alt="ngqsang" /></p>
+<p>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%24430098.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="MS SQL Server" src="https://img.shields.io/badge/MS%20SQL%20Server-%2300f.svg?logo=microsoftsqlserver&logoColor=white"></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ngqsang&show_icons=true&locale=en" alt="ngqsang" /></p>
+### 💻 Software
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ngqsang&" alt="ngqsang" /></p>
+<p>
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-3333ff?logo=linux&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+
+### 💻 Coding Tools
+
+<p>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+</p>
+
+<br>
+
+### 📊 GitHub Profile Stats
+
+<p align="center">
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NgQsang&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NgQsang&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+<br>
+<b>Note:</b> Top languages doesn't represent experience or skill level; it's just a measure of the languages that make up my published code.
+
+</p>
+
+<br><br>
+
+![divider](./images/divider.gif)
+
+<p align="center">
+  <i>Let's talk and connect! Open to everything that is sunlit.</i>
+
+  <p align="center">
+  <code><a href="https://www.facebook.com/profile.php?id=100041757683705/"><img width="30px" src="./images/facebook.png" title="Facebook"/></a></code>
+	<code><a href="https://www.linkedin.com/in/sang-nguyen-6026a5283/"><img width="30px" src="./images/linkedin.png" title="Linkedin"/></a></code>
+	<code><a href="https://www.instagram.com/quangsang____/"><img width="30px" src="./images/instagram.png" title="Instagram"/></a></code>
+	<code><a href="nguyensang.contactwork@gmail.com"><img width="30px" src="./images/gmail.png" title="Gmail"/></a></code>
+  </p>
+
+  <p align="center">
+      <img src="https://komarev.com/ghpvc/?username=NgQsang&label=Profile+Views" alt="NgQsang" />
+  </p>
+</p>
