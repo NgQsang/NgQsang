@@ -1,13 +1,26 @@
 <h1 align="center">Hi Guys👋, I'm Nguyen Quang Sang</h1>
 <h3 align="center">A passionate Junior Data Scientist, Data Analyst from VN-HCM city</h3>
 
+<br>
+
 <img align="right" width=200px height=200px alt="side_sticker" src="./images/profile_dev.svg" />
-<h3 align="left">About me:</h3>
-- 🌱 I’m currently learning **Data Science, Data analysis, ML/DL**
+
+### <img src="./images/stats.gif" width="30px"> ***About Me***
+- 🌱 I’m currently learning ***Data Science***, ***Data analysis***, ***ML/DL***
 
 - 📫 How to reach me **nguyensang.contactwork@gmail.com**
 
 - ⚡ Fun fact **I am a cat lover**
+
+<br>
+
+## 🔥 Streak Stats
+<p align="center">
+    <img title="🔥 Burn like Sen" alt="Quang Sang's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NgQsang&theme=monokai-metallian&hide_border=true"/>
+  <p align="center"> Get small win every day🔥 </p>
+</p>
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
