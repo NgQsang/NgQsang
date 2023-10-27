@@ -1,6 +1,7 @@
 <h1 align="center">Hi Guys👋, I'm Nguyen Quang Sang</h1>
 <h3 align="center">A passionate Junior Data Scientist, Data Analyst from VN-HCM city</h3>
 
+<img align="right" width=200px height=200px alt="side_sticker" src="./images/profile_dev.svg" />
 <h3 align="left">About me:</h3>
 - 🌱 I’m currently learning **Data Science, Data analysis, ML/DL**
 
