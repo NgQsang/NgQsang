@@ -1,5 +1,8 @@
-<h1 align="center">Hi Guys👋, I'm Nguyen Quang Sang</h1>
-<h3 align="center">A passionate Junior Data Scientist, Data Analyst from VN-HCM city</h3>
+![alt text](./images/Header(2).svg)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Student;A+Passionate+Data+Analyst;;Always%20learning%20new%20things&center=true&width=380&height=45">
+</p>
 
 <br>
 
