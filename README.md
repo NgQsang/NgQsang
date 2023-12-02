@@ -105,7 +105,7 @@
   <code><a href="https://www.facebook.com/profile.php?id=100041757683705/"><img width="30px" src="./images/facebook.png" title="Facebook"/></a></code>
 	<code><a href="https://www.linkedin.com/in/sang-nguyen-6026a5283/"><img width="30px" src="./images/linkedin.png" title="Linkedin"/></a></code>
 	<code><a href="https://www.instagram.com/quangsang____/"><img width="30px" src="./images/instagram.png" title="Instagram"/></a></code>
-	<code><a href="nguyensang.contactwork@gmail.com"><img width="30px" src="./images/gmail.png" title="Gmail"/></a></code>
+	<code><a href="https://mail.google.com/mail/u/3/#inbox"><img width="30px" src="./images/gmail.png" title="Gmail"/></a></code>
   </p>
 
   <p align="center">
