@@ -5,9 +5,9 @@
 
 - ⚡ Fun fact **I am a cat lover**
 
-## 🛠️ My Favorite Tools
+## Programming Experiences
 
-### 👨‍💻 Languages Experiences
+### Languages 
 <p>
     <a href="https://github.com/search?q=user%3ANgQsang/+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ANgQsang/+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23007396.svg?logo=javascript&logoColor=white"></a>
@@ -18,7 +18,7 @@
     <a href="https://github.com/search?q=user%3ANgQsang/+is%3Arepo+language%3AR"><img alt="R" src="https://img.shields.io/badge/R-%23276DC3.svg?logo=R&logoColor=white">
 </a>
 
-### 📚 Libraries
+### Libraries
 
 <p>
     <a href="#"><img alt="D3.js" src="https://img.shields.io/badge/D3.js-%2020532a.svg?logo=d3.js&logoColor=white"></a>
@@ -36,21 +36,21 @@
 	
 </p>
 
-### 🗄️ Databases
+### Databases
 
 <p>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%24430098.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="MS SQL Server" src="https://img.shields.io/badge/MS%20SQL%20Server-%2300f.svg?logo=microsoftsqlserver&logoColor=white"></a>
 </p>
 
-### 💻 Software
+### Software
 
 <p>
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-3333ff?logo=linux&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 
-### 💻 IDE
+### IDE
 
 <p>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
