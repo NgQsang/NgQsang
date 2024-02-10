@@ -1,9 +1,10 @@
-### <img src="./images/stats.gif" width="30px"> ***About Me***
-- 🌱 I’m currently learning ***Data Science***, ***Data analysis***, ***ML/DL***
+### Hi, I'm Sang 👋
 
-- 📫 How to reach me **nguyensang.contactwork@gmail.com**
+- 🎓 I'm currently majoring in Data Science at IU (VNUHCM - International University)
+  
+- 📫 Passionate and self-studying ***Data Science***, ***Data analysis***, ***ML/DL***
 
-- ⚡ Fun fact **I am a cat lover**
+- ⚡ How to reach me **nguyensang.contactwork@gmail.com**
 
 ## Programming Experiences
 
