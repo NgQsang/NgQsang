@@ -4,7 +4,7 @@
   
 - 📫 Passionate and self-studying ***Data Science***, ***Data analysis***, ***ML/DL***
 
-- ⚡ How to reach me **nguyensang.contactwork@gmail.com**
+- 📧 Contact **nguyensang.contactwork@gmail.com**
 
 ## Programming Experiences
 
